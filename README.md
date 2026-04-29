@@ -64,6 +64,22 @@ const fatratra = {
 
 ---
 
+## 🖥️ OS I've Worked With
+
+<div align="center">
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![KDE Neon](https://img.shields.io/badge/KDE_Neon-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-7C3AED?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -91,7 +107,7 @@ const fatratra = {
 
 ---
 
-## 🐍 Contribution
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -114,10 +130,10 @@ const fatratra = {
 
 | | Skill | Progress |
 |:---:|:---|:---|
-| 🎨 | Frontend & UI Design | `████████░░ 65%` |
+| 🎨 | Frontend & UI Design | `████████░░ 80%` |
 | 📱 | React Native | `still learning 🌱` |
-| 🔧 | Backend / Node.js | `██░░░░░░░░ 10%` |
-| 🚀 | Ops | `███░░░░░░░ 5%` |
+| 🔧 | Backend / Node.js | `██░░░░░░░░ 20%` |
+| 🚀 | Portfolio | `███░░░░░░░ 30%` |
 
 </div>
 
