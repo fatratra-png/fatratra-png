@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f8f8,50:e8e0ff,100:c4b5fd&height=200&section=header&text=Hi%2C%20I%27m%20Fatratra%20%F0%9F%91%8B&fontSize=42&fontColor=4c1d95&fontAlignY=38&desc=Frontend%20Dev%20%E2%80%A2%20UI%20Designer%20%E2%80%A2%20Still%20figuring%20it%20out&descAlignY=58&descSize=16&descColor=7c3aed" alt="Header Banner"/>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=spicy_babyyy&label=Profile%20views&color=c4b5fd&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=fatratra-png&label=Profile%20views&color=c4b5fd&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -68,15 +68,15 @@ const about = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=spicy_babyyy&show_icons=true&theme=calm&bg_color=faf5ff&title_color=7c3aed&icon_color=a78bfa&text_color=4c1d95&border_color=e8e0ff&border_radius=12&hide_border=false" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&theme=calm&bg_color=faf5ff&title_color=7c3aed&icon_color=a78bfa&text_color=4c1d95&border_color=e8e0ff&border_radius=12&hide_border=false" alt="GitHub Stats"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicy_babyyy&layout=compact&theme=calm&bg_color=faf5ff&title_color=7c3aed&text_color=4c1d95&border_color=e8e0ff&border_radius=12" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=calm&bg_color=faf5ff&title_color=7c3aed&text_color=4c1d95&border_color=e8e0ff&border_radius=12" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spicy_babyyy&theme=calm&background=faf5ff&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&border=e8e0ff&border_radius=12" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=calm&background=faf5ff&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&border=e8e0ff&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
@@ -87,9 +87,9 @@ const about = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spicy_babyyy/spicy_babyyy/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spicy_babyyy/spicy_babyyy/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/spicy_babyyy/spicy_babyyy/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -109,8 +109,8 @@ const about = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-c4b5fd?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/spicy_babyyy)
-[![GitHub](https://img.shields.io/badge/GitHub-spicy__babyyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicy_babyyy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-c4b5fd?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/fatratra-png)
+[![GitHub](https://img.shields.io/badge/GitHub-spicy__babyyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatratra-png)
 
 </div>
 
