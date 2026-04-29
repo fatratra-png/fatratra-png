@@ -130,10 +130,10 @@ const fatratra = {
 
 | | Skill | Progress |
 |:---:|:---|:---|
-| 🎨 | Frontend & UI Design | `████████░░ 80%` |
+| 🎨 | Frontend & UI Design | `████████░░ 65%` |
 | 📱 | React Native | `still learning 🌱` |
-| 🔧 | Backend / Node.js | `██░░░░░░░░ 20%` |
-| 🚀 | Portfolio | `███░░░░░░░ 30%` |
+| 🔧 | Backend / Node.js | `██░░░░░░░░ 10%` |
+| 🚀 | Git | `███░░░░░░░ 400%` |
 
 </div>
 
