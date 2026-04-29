@@ -91,7 +91,7 @@ const fatratra = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <div align="center">
 
