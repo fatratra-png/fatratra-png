@@ -1,33 +1,41 @@
 <div align="center">
 
-<!-- Animated header banner with bubble font via custom style -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:f9a8d4,100:93c5fd&height=220&section=header&text=Hi%2C%20I%27m%20Fatratra%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Dev%20%E2%80%A2%20UI%20Designer%20%E2%80%A2%20Still%20figuring%20it%20out%20%F0%9F%8C%B1&descAlignY=58&descSize=16&descColor=ede9fe&animation=fadeIn&fontFamily=Nunito" alt="Header Banner"/>
-
-<!-- Animated typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=500&lines=Somewhere+between+designer+%26+dev+%F0%9F%92%AB;Design+first%2C+then+code.+Deal+with+it.+%F0%9F%8E%A8;Frontend+%E2%86%92+Backend+%F0%9F%8F%8A;React+%7C+Tailwind+%7C+Figma+%7C+Node.js" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=fatratra-png&label=Profile+views&color=a78bfa&style=for-the-badge" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,25:a855f7,50:ec4899,75:f97316,100:7c3aed&height=260&section=header&text=Fatratra&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Dev%20%E2%80%A2%20UI%20Designer%20%E2%80%A2%20Pixel%20Perfectionist&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
 
 </div>
 
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%27m+Fatratra+!;%F0%9F%8E%A8+Design+first.+Always.;%F0%9F%8F%8A+Frontend+%E2%86%92+Backend+mode;%F0%9F%92%AB+If+it+looks+bad%2C+it+doesn%27t+ship.;%F0%9F%8C%B1+Still+figuring+it+out%E2%80%A6+and+loving+it." alt="Typing SVG" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatratra-png&label=Profile+views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/fatratra-png?label=Followers&style=for-the-badge&color=ec4899&labelColor=1a1a2e" />
+</div>
+
+<br/>
+
 ---
 
-## 💻 About me
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const about = {
-  role:       ["Frontend Developer", "UI Designer", "Mobile Dev (in progress)"],
-  currently:  "Comfortable with frontend & UI — now diving into backend 🏊",
-  learning:   ["React Native", "Node.js", "deeper SQL"],
-  philosophy: "If it doesn't look good, it doesn't ship.",
-  funFact:    "I design first, then code. Deal with it."
-};
+### 🪐 About me
+
+```js
+const fatratra = {
+  role    : ["Frontend Dev 🎨", "UI Designer ✏️"],
+  now     : "Comfy frontend → exploring backend 🏊",
+  learning: ["React Native", "Node.js", "SQL"],
+  motto   : "If it doesn't look good, it doesn't ship.",
+  secret  : "I design first, then code. Deal with it. 😤"
+}
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -35,31 +43,22 @@ const about = {
 
 <div align="center">
 
-**✦ Frontend & Design ✦**
+### ✦ Frontend & Design
 
-![HTML5](https://img.shields.io/badge/HTML5-EA580C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-10B981?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-D946EF?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&perline=6&theme=dark" />
 
-**✦ Backend & Data ✦**
+### ✦ Backend & Data
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,nodejs,postgres&perline=6&theme=dark" />
 
-**✦ Tools & Deployment ✦**
+### ✦ Tools & Deploy
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=6&theme=dark" />
 
-**✦ Exploring Next ✦**
+### ✦ Exploring Next
 
-![React Native](https://img.shields.io/badge/React_Native-0284C7?style=for-the-badge&logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-64748B?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,express&perline=6&theme=dark" />
+<br/><sub><i>React Native · Express.js</i></sub>
 
 </div>
 
@@ -69,15 +68,24 @@ const about = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=a78bfa&icon_color=f472b6&text_color=e2d9f3&border_color=4c1d95&border_radius=16&hide_border=false&card_width=400" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=a78bfa&text_color=e2d9f3&border_color=4c1d95&border_radius=16&langs_count=6" alt="Top Languages"/>
+<a href="https://github.com/fatratra-png">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d001a&title_color=a855f7&icon_color=ec4899&text_color=e2d9f3&border_color=7c3aed&border_radius=18" />
+</a>
+<a href="https://github.com/fatratra-png">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=midnight-purple&bg_color=0d001a&title_color=a855f7&text_color=e2d9f3&border_color=7c3aed&border_radius=18&langs_count=6" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=tokyonight&background=0d0d1a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2d9f3&dates=6d6d8a&border=4c1d95&border_radius=16" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=midnight-purple&background=0d001a&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=e2d9f3&dates=7c4d9a&border=7c3aed&border_radius=18" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatratra-png&bg_color=0d001a&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=7c3aed&border_radius=18&hide_border=false&custom_title=Fatratra's%20Contribution%20Graph" />
 
 </div>
 
@@ -85,66 +93,43 @@ const about = {
 
 ## 🐍 Contribution Snake
 
-> **Setup:** Add the workflow below as `.github/workflows/snake.yml` to generate your snake animation automatically.
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake eating my commits"
+    src="https://raw.githubusercontent.com/fatratra-png/fatratra-png/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
-
-<details>
-<summary><b>⚙️ snake.yml — click to expand</b></summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
 ## 🌱 Currently
 
-- 🎨 Comfortable with **frontend** & **UI design** — always leveling up
-- 📱 Dipping into **mobile development** with React Native
-- 🔧 Curious about what lives behind the API — exploring **backend**
-- 🚀 Building my **portfolio** soon — stay tuned
+<div align="center">
+
+| | Skill | Progress |
+|:---:|:---|:---|
+| 🎨 | Frontend & UI Design | `████████░░ 65%` |
+| 📱 | React Native | `still learning 🌱` |
+| 🔧 | Backend / Node.js | `██░░░░░░░░ 10%` |
+| 🚀 | Ops | `███░░░░░░░ 5%` |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
 
 ---
 
@@ -152,8 +137,17 @@ jobs:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon%20✨-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/fatratra-png)
-[![GitHub](https://img.shields.io/badge/GitHub-fatratra--png-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatratra-png)
+<a href="https://github.com/fatratra-png">
+  <img src="https://img.shields.io/badge/GitHub-fatratra--png-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed" />
+</a>
+&nbsp;
+<a href="https://github.com/fatratra-png">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon%20✨-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ec4899" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design%20is%20not%20just%20what%20it%20looks%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" />
 
 </div>
 
@@ -161,6 +155,6 @@ jobs:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:f9a8d4,100:c4b5fd&height=140&section=footer&fontFamily=Nunito" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:a855f7,100:7c3aed&height=150&section=footer&fontFamily=Nunito" />
 
 </div>
