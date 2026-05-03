@@ -45,7 +45,7 @@ const aboutFatratra = {
 
 ### ✦ Frontend & Design
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,beercss,figma&perline=7&theme=dark" />
 
 ### ✦ Backend,Data & Other Tech 
 
@@ -55,10 +55,9 @@ const aboutFatratra = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,supabase&perline=6&theme=dark" />
 
-### ✦ EXploring
+### ✦ Actually Exploring
 
-<img src="https://skillicons.dev/icons?i=react,express,java,spring,c&perline=6&theme=dark" />
-<br/><sub><i>React Native · Express.js</i></sub>
+<img src="https://skillicons.dev/icons?i=react,swift,kotlin,flutter,bootstrap,express,java,spring,c,cpp,cs&perline=6&theme=dark" />
 
 </div>
 
