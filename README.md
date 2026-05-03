@@ -26,8 +26,8 @@
 ### 🪐 About me
 
 ```js
-const fatratra = {
-  role    : ["Frontend Dev 🎨", "UI Designer ✏️"],
+const aboutFatratra = {
+  role   : ["Frontend Dev 🎨", "UI Designer ✏️"],
   now     : "Comfy frontend → exploring backend 🏊",
   learning: ["React Native", "Node.js", "SQL"],
   motto   : "If it doesn't look good, it doesn't ship.",
@@ -47,17 +47,17 @@ const fatratra = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=7&theme=dark" />
 
-### ✦ Backend & Data
+### ✦ Backend,Data & Other Tech 
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,postgres&perline=6&theme=dark" />
 
 ### ✦ Tools & Deploy
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,supabase&perline=6&theme=dark" />
 
-### ✦ Exploring Next
+### ✦ EXploring
 
-<img src="https://skillicons.dev/icons?i=react,express&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,express,java,spring,c&perline=6&theme=dark" />
 <br/><sub><i>React Native · Express.js</i></sub>
 
 </div>
