@@ -49,11 +49,11 @@ const aboutFatratra = {
 
 ### ✦ Backend,Data & Other Tech 
 
-<img src="https://skillicons.dev/icons?i=python,bash,nodejs,postgres&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,nodejs,postgres,mysql&perline=6&theme=dark" />
 
 ### ✦ Tools & Deploy
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,zeditor&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=6&theme=dark" />
 
 ### ✦ Actually Exploring
 
