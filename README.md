@@ -53,11 +53,11 @@ const aboutFatratra = {
 
 ### ✦ Tools & Deploy
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bash,sh&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bash&perline=6&theme=dark" />
 
 ### ✦ Actually Exploring
 
-<img src="https://skillicons.dev/icons?i=react,swift,ts,express,python,api&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,swift,ts,express,python&perline=6&theme=dark" />
 
 </div>
 
