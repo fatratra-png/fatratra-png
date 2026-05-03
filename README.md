@@ -45,19 +45,19 @@ const aboutFatratra = {
 
 ### ✦ Frontend & Design
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,canva,figma&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=7&theme=dark" />
 
 ### ✦ Backend,Data & Other Tech 
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,postgres&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,shell,nodejs,postgres&perline=6&theme=dark" />
 
 ### ✦ Tools & Deploy
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,zed&perline=6&theme=dark" />
 
 ### ✦ Actually Exploring
 
-<img src="https://skillicons.dev/icons?i=react,swift,kotlin,flutter,bootstrap,express,java,spring,c,cpp,cs,kali&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,swift,express,java,spring,c&perline=6&theme=dark" />
 
 </div>
 
