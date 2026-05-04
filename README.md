@@ -132,7 +132,7 @@ const aboutFatratra = {
 | 🎨 | Frontend & UI Design | `████████░░ 65%` |
 | 📱 | React Native | `still learning 🌱` |
 | 🔧 | Backend / Node.js | `██░░░░░░░░ 10%` |
-| 🚀 | Git | `███░░░░░░░ 400%` |
+| 🚀 | Git | `███░░░░░░░ 40%` |
 
 </div>
 
