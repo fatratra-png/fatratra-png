@@ -57,7 +57,7 @@ const aboutFatratra = {
 
 ### ✦ Actually Exploring
 
-<img src="https://skillicons.dev/icons?i=react,swift,ts,express,python,java,spring&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,swift,ts,express,python,java&perline=6&theme=dark" />
 
 </div>
 
