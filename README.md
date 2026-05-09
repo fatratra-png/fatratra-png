@@ -67,6 +67,7 @@ const aboutFatratra = {
 
 <div align="center">
 
+![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
@@ -132,7 +133,7 @@ const aboutFatratra = {
 | 🎨 | Frontend & UI Design | `████████░░ 65%` |
 | 📱 | React Native | `still learning 🌱` |
 | 🔧 | Backend / Node.js | `██░░░░░░░░ 10%` |
-| 🚀 | Git | `███░░░░░░░ 40%` |
+| 🚀 | Git | `███░░░░░░░ 45%` |
 
 </div>
 
