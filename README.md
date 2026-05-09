@@ -75,6 +75,7 @@ const aboutFatratra = {
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-7C3AED?style=for-the-badge&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-780606?style=for-the-badge&logo=arch-linux&logoColor=black)
 
 </div>
 
