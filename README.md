@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,25:a855f7,50:ec4899,75:f97316,100:7c3aed&height=260&section=header&text=Fatratra&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Dev%20%E2%80%A2%20UI%20Designer%20%E2%80%A2%20Pixel%20Perfectionist&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06b6d4,25:7c3aed,50:a855f7,75:06b6d4,100:7c3aed&height=260&section=header&text=Fatratra&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Dev%20%E2%80%A2%20UI%20Designer%20%E2%80%A2%20Pixel%20Perfectionist&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
 
 </div>
 
@@ -172,6 +172,6 @@ const aboutFatratra = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:a855f7,100:7c3aed&height=150&section=footer&fontFamily=Nunito" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06b6d4,50:a855f7,100:7c3aed&height=150&section=footer&fontFamily=Nunito" />
 
 </div>
