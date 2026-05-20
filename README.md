@@ -6,15 +6,15 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=06b6d4&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%27m+Fatratra+!;%F0%9F%8E%A8+Design+first.+Always.;%F0%9F%8F%8A+Frontend+%E2%86%92+Backend+mode;%F0%9F%92%AB+If+it+looks+bad%2C+it+doesn%27t+ship.;%F0%9F%8C%B1+Still+figuring+it+out%E2%80%A6+and+loving+it." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%27m+Fatratra+!;%F0%9F%8E%A8+Design+first.+Always.;%F0%9F%8F%8A+Frontend+%E2%86%92+Backend+mode;%F0%9F%92%AB+If+it+looks+bad%2C+it+doesn%27t+ship.;%F0%9F%8C%B1+Still+figuring+it+out%E2%80%A6+and+loving+it." alt="Typing SVG" /></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatratra-png&label=Profile+views&color=0ea5e9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/fatratra-png?label=Followers&style=flat-square&color=06b6d4&labelColor=0c1222" />
+  <img src="https://komarev.com/ghpvc/?username=fatratra-png&label=Profile+views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/fatratra-png?label=Followers&style=for-the-badge&color=ec4899&labelColor=1a1a2e" />
 </div>
 
 <br/>
@@ -24,85 +24,96 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22d3ee&center=true&vCenter=true&width=400&lines=Welcome+to+my+profile!+%F0%9F%9A%80" alt="Welcome"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=400&lines=Welcome+to+my+profile!+%F0%9F%9A%80" alt="Welcome"/>
 </p>
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding%20Something-0ea5e9?style=flat-square&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mood-Design%20First-06b6d4?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Frontend%20Zone-0284c7?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://media.giphy.com/media/LnE93JozYqB4q/giphy.gif" width="80"/>
 </p>
-
-### ⚡ Quick Facts
-
-> 🎨 Frontend dev who refuses to ship ugly code
-> 🏊 Comfortable in frontend, diving into backend
-> 🐧 Linux enjoyer with 9+ OS battle scars
-> 😤 "I design first, then code. Deal with it."
 
 ---
 
-### 🛠️ My Arsenal
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center">
-<b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=7&theme=dark" /><br><br>
-<b>Backend & Data</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,express,python&perline=4&theme=dark" /><br><br>
-<b>Tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bash&perline=5&theme=dark" />
+<td width="60%">
+
+### 🧑‍💻 Who am I?
+
+```yaml
+name: Fatratra
+role: Frontend Developer & UI Designer
+motto: "If it looks bad, it doesn't ship."
+current_focus:
+  - React Native
+  - Node.js
+  - SQL
+fun_fact: "I design first, then code. Deal with it."
+```
+
 </td>
-<td align="center">
-<b>Exploring</b><br>
-<img src="https://skillicons.dev/icons?i=react,swift,ts,express,python,java&perline=6&theme=dark" /><br><br>
-<b>Currently Loading...</b><br>
-<code>Frontend ████████░░ 65%</code><br>
-<code>React Native 🌱🌱🌱</code><br>
-<code>Backend ██░░░░░░░░ 10%</code><br>
-<code>Git ███░░░░░░░ 45%</code>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🖥️ OS Graveyard & Daily Drivers
+### 🔥 Tech Stack
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=7&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,express,python&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bash&perline=5&theme=dark" /> |
+
+**🔭 Currently Exploring:** <img src="https://skillicons.dev/icons?i=swift,java,react,ts&perline=4&theme=dark" />
+
+</div>
+
+---
+
+### 💻 OS I've Worked With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FFDE21?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/KDE_Neon-1D99F3?style=flat-square&logo=kde&logoColor=white" />
-  <img src="https://img.shields.io/badge/CachyOS-7C3AED?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/EndeavourOS-780606?style=flat-square&logo=arch-linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FFDE21?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/KDE_Neon-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-7C3AED?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/EndeavourOS-780606?style=for-the-badge&logo=arch-linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-### 📊 The Numbers Don't Lie
+### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&count_private=true&theme=blue-green&bg_color=0c1222&title_color=0ea5e9&icon_color=22d3ee&text_color=c8e6ff&border_color=06b6d4&border_radius=18" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=blue-green&bg_color=0c1222&title_color=0ea5e9&text_color=c8e6ff&border_color=06b6d4&border_radius=18&langs_count=6" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=blue-green&background=0c1222&ring=0ea5e9&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c8e6ff&dates=0284c7&border=06b6d4&border_radius=18" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=06b6d4&text_color=c8e6ff&border_color=0284c7&border_radius=18" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=c8e6ff&border_color=0284c7&border_radius=18&langs_count=6" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=blue-green&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c8e6ff&dates=0284c7&border=0284c7&border_radius=18" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
 
 ---
 
-### 🐍 Snake Eating My Commits
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -119,12 +130,27 @@
 
 ---
 
+### 🎯 Skill Progress
+
+<div align="center">
+
+| Skill | Level |
+|:---|:---|
+| 🎨 Frontend & UI Design | ████████░░ 65% |
+| 📱 React Native | 🌱🌱🌱 Learning |
+| 🔧 Backend / Node.js | ██░░░░░░░░ 10% |
+| 🚀 Git | ███░░░░░░░ 45% |
+
+</div>
+
+---
+
 <p align="center">
   <a href="https://github.com/fatratra-png">
-    <img src="https://img.shields.io/badge/GitHub-fatratra--png-0c1222?style=for-the-badge&logo=github&logoColor=white&labelColor=0ea5e9" />
+    <img src="https://img.shields.io/badge/GitHub-fatratra--png-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=0ea5e9" />
   </a>
   <a href="https://github.com/fatratra-png">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0c1222?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06b6d4" />
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06b6d4" />
   </a>
 </p>
 
