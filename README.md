@@ -27,60 +27,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=400&lines=Welcome+to+my+profile!+%F0%9F%9A%80" alt="Welcome"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_repos&label=Public+Repos&color=0ea5e9&style=for-the-badge&labelColor=0c1222" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_gists&label=Gists&color=06b6d4&style=for-the-badge&labelColor=0c1222" />
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=22d3ee&center=true&vCenter=true&width=430&lines=const+developer+%3D+%7B+%22vibe%22%3A+%22design_first%22%2C+%22ship%22%3A+%22only_if_pretty%22+%7D%3B" />
-</p>
-
----
-
-<table align="center">
-<tr>
-<td>
-
-### 🎯 The Gist
+### ⚡ The Source Code
 
 ```java
-private class Fatratra {
-    private final String[] roles = {"Frontend Dev 🎨", "UI Designer ✏️"};
-    private String currentMission = "Frontend → Backend mode 🏊";
-    private String[] learning = {"React Native", "Node.js", "SQL"};
-    private final String motto = "If it doesn't look good, it doesn't ship.";
-    
-    public String getSecret() {
+public final class Fatratra {
+
+    private static final String[] ROLES = {"Frontend Dev 🎨", "UI Designer ✏️"};
+    private static final String MISSION = "Design first. Ship only if pretty.";
+
+    private volatile String currentFocus = "Frontend → Backend mode 🏊";
+    private final List<String> learning = new ArrayList<>(List.of(
+        "React Native", "Node.js", "SQL"
+    ));
+
+    public void grind() {
+        while (alive) {
+            design();
+            code();
+            push();
+            repeat();
+        }
+    }
+
+    public String vibe() {
         return "I design first, then code. Deal with it. 😤";
     }
 }
 ```
 
-</td>
-<td align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"/>
+</p>
 
 ---
 
-### ⚡ Tech I Touch
+### 🔥 Arsenal
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,postgres,git,github,vercel,bash,vscode,python,swift,java&perline=9&theme=dark" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,postgres,git,github,vercel,bash,vscode,python,swift,java&perline=9&theme=dark" />
+</p>
 
 ---
 
-### 🖥️ OS I've Survived On
+### 🖥️ OS Playground
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FFDE21?style=for-the-badge&logo=linux&logoColor=black" />
@@ -95,7 +86,7 @@ private class Fatratra {
 
 ---
 
-### 📊 Stats That Talk
+### 📊 The Numbers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=22d3ee&text_color=c8e6ff&border_color=0284c7&border_radius=16" />
@@ -108,19 +99,15 @@ private class Fatratra {
 
 ---
 
-### 🏆 Hall of Trophies
+### 🏆 Trophy Room
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=onedark&no-frame=true&no-bg=false&margin-w=8&column=-1&border_radius=12" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=-1&border_radius=12" />
-</p>
-
 ---
 
-### 🐍 Commit Snake
+### 🐍 Snake Devouring Commits
 
 <div align="center">
 
@@ -137,18 +124,16 @@ private class Fatratra {
 
 ---
 
-### 📈 Loading Bar
+### 📈 Progress
 
-<div align="center">
+<p align="center">
 
-| What | Where I'm At |
-|:---|:---|
-| 🎨 Frontend & UI | `████████░░` 65% |
-| 📱 React Native | `🌱 sprouting...` |
-| 🔧 Backend / Node | `██░░░░░░░░` 10% |
-| 🚀 Git | `███░░░░░░░` 45% |
+🎨 Frontend &nbsp;`████████░░` 65%
+📱 React Native &nbsp;`🌱 loading...`
+🔧 Backend &nbsp;`██░░░░░░░░` 10%
+🚀 Git &nbsp;`███░░░░░░░` 45%
 
-</div>
+</p>
 
 ---
 
@@ -159,10 +144,6 @@ private class Fatratra {
   <a href="https://github.com/fatratra-png">
     <img src="https://img.shields.io/badge/Portfolio-Coming+Soon-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ec4899" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design+is+not+just+what+it+looks+like.+Design+is+how+it+works.&author=Steve+Jobs" />
 </p>
 
 <div align="center">
