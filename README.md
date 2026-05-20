@@ -19,11 +19,23 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d26501b938c.gif" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=400&lines=Welcome+to+my+profile!+%F0%9F%9A%80" alt="Welcome"/>
+</p>
+
 ---
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🪐 About me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+</p>
 
 ```js
 const aboutFatratra = {
@@ -40,6 +52,10 @@ const aboutFatratra = {
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcApOAJkP3t8kD/giphy.gif" width="30"/>
+</p>
 
 <div align="center">
 
@@ -65,6 +81,10 @@ const aboutFatratra = {
 
 ## 🖥️ OS I've Worked With
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"/>
+</p>
+
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FFDE21?style=for-the-badge&logo=linux&logoColor=black)
@@ -82,6 +102,10 @@ const aboutFatratra = {
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abBhIv3fNclzmJq/giphy.gif" width="40"/>
+</p>
 
 <div align="center">
 
@@ -110,6 +134,10 @@ const aboutFatratra = {
 
 ## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacVRS/giphy.gif" width="40"/>
+</p>
+
 <div align="center">
 
 <picture>
@@ -127,6 +155,10 @@ const aboutFatratra = {
 
 ## 🌱 Currently
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26gspYLzEXVVKq8vu/giphy.gif" width="40"/>
+</p>
+
 <div align="center">
 
 | | Skill | Progress |
@@ -142,6 +174,10 @@ const aboutFatratra = {
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Eo5Y30hHEPTlpmU/giphy.gif" width="40"/>
+</p>
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
@@ -151,6 +187,10 @@ const aboutFatratra = {
 ---
 
 ## 🤝 Let's Connect
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26u4kr12SkmfEOvmP6/giphy.gif" width="80"/>
+</p>
 
 <div align="center">
 
