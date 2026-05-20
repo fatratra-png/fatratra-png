@@ -28,32 +28,41 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnE93JozYqB4q/giphy.gif" width="80"/>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_repos&label=Public%20Repos&color=0ea5e9&style=for-the-badge&labelColor=0c1222" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_gists&label=Gists&color=06b6d4&style=for-the-badge&labelColor=0c1222" />
 </p>
 
 ---
 
-<table align="center" width="100%">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=22d3ee&center=true&vCenter=true&width=430&lines=const+developer+%3D+%7B+%22vibe%22%3A+%22design_first%22%2C+%22ship%22%3A+%22only_if_pretty%22+%7D%3B" />
+</p>
+
+---
+
+<table align="center">
 <tr>
-<td width="60%">
+<td>
 
-### 🧑‍💻 Who am I?
+### 🎯 The Gist
 
-```yaml
-name: Fatratra
-role: Frontend Developer & UI Designer
-motto: "If it looks bad, it doesn't ship."
-current_focus:
-  - React Native
-  - Node.js
-  - SQL
-fun_fact: "I design first, then code. Deal with it."
+```java
+private class Fatratra {
+    private final String[] roles = {"Frontend Dev 🎨", "UI Designer ✏️"};
+    private String currentMission = "Frontend → Backend mode 🏊";
+    private String[] learning = {"React Native", "Node.js", "SQL"};
+    private final String motto = "If it doesn't look good, it doesn't ship.";
+    
+    public String getSecret() {
+        return "I design first, then code. Deal with it. 😤";
+    }
+}
 ```
 
 </td>
-<td width="40%" align="center">
+<td align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
 
 </td>
 </tr>
@@ -61,21 +70,17 @@ fun_fact: "I design first, then code. Deal with it."
 
 ---
 
-### 🔥 Tech Stack
+### ⚡ Tech I Touch
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=7&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,express,python&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bash&perline=5&theme=dark" /> |
-
-**🔭 Currently Exploring:** <img src="https://skillicons.dev/icons?i=swift,java,react,ts&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,postgres,git,github,vercel,bash,vscode,python,swift,java&perline=9&theme=dark" />
 
 </div>
 
 ---
 
-### 💻 OS I've Worked With
+### 🖥️ OS I've Survived On
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FFDE21?style=for-the-badge&logo=linux&logoColor=black" />
@@ -90,30 +95,24 @@ fun_fact: "I design first, then code. Deal with it."
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Stats That Talk
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=22d3ee&text_color=c8e6ff&border_color=0284c7&border_radius=16" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=c8e6ff&border_color=0284c7&border_radius=16&langs_count=6" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fatratra-png&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=06b6d4&text_color=c8e6ff&border_color=0284c7&border_radius=18" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatratra-png&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=c8e6ff&border_color=0284c7&border_radius=18&langs_count=6" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=dark&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c8e6ff&dates=0284c7&border=0284c7&border_radius=16" />
+</p>
 
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c8e6ff&dates=0284c7&border=0284c7&border_radius=18" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Commit Snake
 
 <div align="center">
 
@@ -130,16 +129,16 @@ fun_fact: "I design first, then code. Deal with it."
 
 ---
 
-### 🎯 Skill Progress
+### 📈 Loading Bar
 
 <div align="center">
 
-| Skill | Level |
+| What | Where I'm At |
 |:---|:---|
-| 🎨 Frontend & UI Design | ████████░░ 65% |
-| 📱 React Native | 🌱🌱🌱 Learning |
-| 🔧 Backend / Node.js | ██░░░░░░░░ 10% |
-| 🚀 Git | ███░░░░░░░ 45% |
+| 🎨 Frontend & UI | `████████░░` 65% |
+| 📱 React Native | `🌱 sprouting...` |
+| 🔧 Backend / Node | `██░░░░░░░░` 10% |
+| 🚀 Git | `███░░░░░░░` 45% |
 
 </div>
 
@@ -147,10 +146,10 @@ fun_fact: "I design first, then code. Deal with it."
 
 <p align="center">
   <a href="https://github.com/fatratra-png">
-    <img src="https://img.shields.io/badge/GitHub-fatratra--png-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=0ea5e9" />
+    <img src="https://img.shields.io/badge/GitHub-fatratra--png-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed" />
   </a>
   <a href="https://github.com/fatratra-png">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06b6d4" />
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ec4899" />
   </a>
 </p>
 
