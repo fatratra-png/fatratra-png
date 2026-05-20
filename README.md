@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_repos&label=Public%20Repos&color=0ea5e9&style=for-the-badge&labelColor=0c1222" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_repos&label=Public+Repos&color=0ea5e9&style=for-the-badge&labelColor=0c1222" />
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffatratra-png&query=%24.public_gists&label=Gists&color=06b6d4&style=for-the-badge&labelColor=0c1222" />
 </p>
 
@@ -106,8 +106,16 @@ private class Fatratra {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatratra-png&theme=dark&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c8e6ff&dates=0284c7&border=0284c7&border_radius=16" />
 </p>
 
+---
+
+### 🏆 Hall of Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=onedark&no-frame=true&no-bg=false&margin-w=8&column=-1&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatratra-png&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=-1&border_radius=12" />
 </p>
 
 ---
@@ -149,12 +157,12 @@ private class Fatratra {
     <img src="https://img.shields.io/badge/GitHub-fatratra--png-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed" />
   </a>
   <a href="https://github.com/fatratra-png">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ec4899" />
+    <img src="https://img.shields.io/badge/Portfolio-Coming+Soon-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ec4899" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design%20is%20not%20just%20what%20it%20looks%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design+is+not+just+what+it+looks+like.+Design+is+how+it+works.&author=Steve+Jobs" />
 </p>
 
 <div align="center">
