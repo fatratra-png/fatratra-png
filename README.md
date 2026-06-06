@@ -66,7 +66,7 @@ public final class Fatratra {
 ### 🔥 Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,postgres,git,github,vercel,bash,vscode,python,swift,java&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,postgres,git,github,vercel,bash,vscode,java&perline=9&theme=dark" />
 </p>
 
 ---
