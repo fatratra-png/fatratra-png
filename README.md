@@ -14,14 +14,15 @@ data class Fatratra(
 )
 ```
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Jack of all trades ?God only knows</h3>
+<p align="center">but here are all techs i USED actually,never said i master them all</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,tailwind,figma,java,kotlin,postgres,firebase,git,github,vercel,vscode,jetbrains&perline=6&theme=dark" />
   <img src="https://img.icons8.com/color/48/beer.png" width="48" height="48" />
 </p>
 
-<h3 align="center">Jack of all trade ?God only knows</h3>
+<h3 align="center">Social life ? Don't worry I am straight as a pole</h3>
 
 <div align="center">
 
