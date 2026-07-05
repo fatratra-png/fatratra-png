@@ -21,7 +21,7 @@ data class Fatratra(
   <img src="https://img.icons8.com/color/48/beer.png" width="48" height="48" />
 </p>
 
-<h3 align="center">Contribution Snake</h3>
+<h3 align="center">Contribution</h3>
 
 <div align="center">
 
