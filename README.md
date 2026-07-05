@@ -6,25 +6,19 @@
 
 </div>
 
-<br/>
-
-\`\`\`js
-const fatratra = {
-  role: ["Frontend Dev (in progress)", "UI/UX Designer"],
-  passions: ["Mobile dev", "New frontend tech", "Animations"],
-  philosophy: "Design first, code later.",
-};
-\`\`\`
-
-<br/>
+```kotlin
+data class Fatratra(
+    val role: List<String> = listOf("Frontend Dev (in progress)", "UI/UX Designer"),
+    val passions: List<String> = listOf("Mobile dev", "New frontend tech", "Animations"),
+    val philosophy: String = "Design first, code later."
+)
+```
 
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github,vercel,vscode&perline=6&theme=dark" />
 </p>
-
-<br/>
 
 <h3 align="center">Contribution Snake</h3>
 
