@@ -17,7 +17,8 @@ data class Fatratra(
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github,vercel,vscode&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,tailwind,figma,java,kotlin,postgres,firebase,git,github,vercel,vscode,jetbrains&perline=6&theme=dark" />
+  <img src="https://img.icons8.com/color/48/beer.png" width="48" height="48" />
 </p>
 
 <h3 align="center">Contribution Snake</h3>
