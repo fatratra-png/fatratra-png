@@ -6,12 +6,18 @@
 
 </div>
 
-```kotlin
-data class Fatratra(
-    val role: List<String> = listOf("Frontend Dev (in progress)", "UI/UX Designer"),
-    val passions: List<String> = listOf("Mobile dev", "New frontend tech", "Animations"),
-    val philosophy: String = "Design first, code later."
-)
+```
+interface Fatratra {
+  role: string[];
+  passions: string[];
+  philosophy: string;
+}
+
+const fatratra: Fatratra = {
+  role: ["Frontend Dev (in progress)", "UI/UX Designer"],
+  passions: ["Mobile dev", "New frontend tech", "Animations"],
+  philosophy: "Design first, code later.",
+};
 ```
 
 <h3 align="center">Jack of all trades ?God only knows</h3>
