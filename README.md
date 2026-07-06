@@ -6,14 +6,6 @@
 
 </div>
 
-```
-data class Fatratra(
-    val role: List<String> = listOf("Frontend Dev (in progress)", "UI/UX Designer"),
-    val passions: List<String> = listOf("Mobile dev", "New frontend tech", "Animations"),
-    val philosophy: String = "Design first, code later."
-)
-```
-
 <h3 align="center">Jack of all trades ?God only knows</h3>
 <p align="center">but here are all techs i USED actually,never said i master them all</p>
 
