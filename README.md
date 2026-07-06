@@ -6,7 +6,7 @@
 <h3 align="center">Jack of all trades ? God only knows</h3>
 <p align="center">but here are all techs i USED actually, never said i master them all</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte,nextjs,tailwind,figma,java,kotlin,postgres,supabase,firebase,git,github,vercel,vscode,idea,webstorm&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte,nextjs,tailwind,figma,java,kotlin,postgres,supabase,firebase,git,github,vercel,vscode,idea&perline=7&theme=dark" />
   <img src="https://img.icons8.com/color/48/beer.png" width="48" height="48" />
 </p>
 
