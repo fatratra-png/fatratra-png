@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # régénère toutes les 30 minutes
+    - cron: "*/0.083 * * * *" 
   workflow_dispatch: {}
   push:
     branches:
